@@ -1,7 +1,15 @@
 # Ionic 2 Framework Resources  :computer:
+
+<div>
+<p align="center">
+<img src= "https://raw.githubusercontent.com/alxwndr/Ionic-2-Framework-Resources/master/ionic-logo.png">
+</p>
+</div>
+
 A free collaborative list of awesome Ionic Framework resources.
 This list is a an attempt to create a comprehensive list of tutorials that cover as many topics as possible for Ionic version 2.
 I will update this list as I discover new posts and as new posts are suggested.
+
 
 ### Developer pages
 * http://ionicframework.com
