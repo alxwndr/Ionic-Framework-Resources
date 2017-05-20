@@ -4,23 +4,18 @@ This list is a an attempt to create a comprehensive list of tutorials that cover
 I will update this list as I discover new posts and as new posts are suggested.
 
 ### Developer pages
-* http://ionicframework.com/
-* https://apps.ionic.io/
-* http://showcase.ionicframework.com/
-* http://market.ionic.io/
-* http://play.ionic.io/
-* http://creator.ionic.io/
-* http://shop.ionic.io/
-* http://ionicons.com/
+* http://ionicframework.com
+* https://apps.ionic.io
+* http://creator.ionic.io
 
 ### ngCordova
-* http://ngcordova.com/
+* http://ngcordova.com
 
 ### Angular Links
-* https://material.angularjs.org/latest/#/
+* https://material.angularjs.org/latest/#
 
 ### The best Ionic blogs
-* http://www.joshmorony.com/category/ionic-tutorials/
+* http://www.joshmorony.com/category/ionic-tutorials
 * http://blog.ionic.io/
 * https://blog.nraboy.com/?s=ionic&submit=Search
 
