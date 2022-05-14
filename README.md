@@ -1,4 +1,4 @@
-# Ionic 2 Framework Resources  :computer:
+# Ionic Framework Resources  :computer:
 
 <div>
 <p align="center">
@@ -199,7 +199,41 @@ I will update this list as I discover new posts and as new posts are suggested.
 - [How to Unit Test an Ionic 2 Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/) ![](ionic.png)
 - [Test Driven Development in Ionic 2: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/) ![](ionic.png)
 
+# Tools
 
+- [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode) ![](ionic.png)
+- [Vim-ionic2](https://github.com/akz92/vim-ionic2) ![](ionic.png)
+- [Ionic 4 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets) ![](ionic.png)
+
+# Components
+
+Merged from [here](https://github.com/fishme/awesome-ionic2-components).
+
+### Animations
+
+- [Lottie Animation](https://github.com/chenqingspring/ng-lottie) ![](angular.png)
+- [Lottie Animation](https://github.com/fivethree-team/lottie) ![](angular.png)
+
+### UI Library
+
+- [Ionic 4 UI Component Library](https://github.com/fivethree-team/ionic-4-components) ![](ionic.png)
+
+### Menu, Tabs
+
+- [Scrollabel Tabs](https://github.com/SinoThomas/Ionic2-ScrollableTabs) ![](ionic.png)
+- [Circular Tabs](https://github.com/SinoThomas/Ionic2-CircularTabs) ![](ionic.png)
+- [Fab Toolbar](https://github.com/ekhmoi/fab-toolbar) ![](ionic.png)
+- [Multi Level Sidemenu](https://github.com/sebaferreras/Ionic2-MultiLevelSideMenu) ![](ionic.png)
+- [Popover Sidemenu](https://github.com/philipbrack/ionic2-menu-alternative-popover) ![](ionic.png)
+- [Drop down Title](https://github.com/Mohd-PH/ionic-drop-down-title) ![](ionic.png)
+
+### Form / Input
+
+- [Autocomplete](https://github.com/kadoshms/ionic2-autocomplete) ![](ionic.png)
+- [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ![](angular.png)
+- [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) ![](angular.png)
+- [Form Builder](https://github.com/rohitg7/ionic2-form-builder) ![](ionic.png)
+- [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) ![](ionic.png)
 
 ### Unsorted links
 * https://blog.nraboy.com/2015/01/upload-files-remote-server-using-ionic-framework/
